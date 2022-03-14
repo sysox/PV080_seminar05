@@ -1,0 +1,9 @@
+Pillow==9.0.1
+cryptography==36.0.1
+jupyter-contrib-nbextensions==0.5.1
+jupyter-nbextensions-configurator==0.4.1
+jupyter==1.0.0
+jupytext==1.13.7
+notebook==6.4.8
+requests==2.27.1
+widgetsnbextension==3.5.2
